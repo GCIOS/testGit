@@ -12,11 +12,8 @@ NS_ASSUME_NONNULL_BEGIN
 
 @interface Student : NSObject
 - (void)run;
-<<<<<<< HEAD
 - (void)eat2;
-=======
-- (void)eat;
->>>>>>> origin/bb2
+- (void)eat; 
 @end
 
 NS_ASSUME_NONNULL_END
