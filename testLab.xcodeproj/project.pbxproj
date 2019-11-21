@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		13A08B23238626870048F959 /* Order.m in Sources */ = {isa = PBXBuildFile; fileRef = 13A08B22238626870048F959 /* Order.m */; };
 		13A08B26238626AE0048F959 /* Product.m in Sources */ = {isa = PBXBuildFile; fileRef = 13A08B25238626AE0048F959 /* Product.m */; };
 		2A5369FD238552AE00C615AF /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 2A5369FC238552AE00C615AF /* AppDelegate.m */; };
 		2A536A00238552AE00C615AF /* SceneDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 2A5369FF238552AE00C615AF /* SceneDelegate.m */; };
@@ -38,8 +37,6 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		13A08B21238626870048F959 /* Order.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Order.h; sourceTree = "<group>"; };
-		13A08B22238626870048F959 /* Order.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Order.m; sourceTree = "<group>"; };
 		13A08B24238626AE0048F959 /* Product.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Product.h; sourceTree = "<group>"; };
 		13A08B25238626AE0048F959 /* Product.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Product.m; sourceTree = "<group>"; };
 		2A5369F8238552AE00C615AF /* testLab.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = testLab.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -116,8 +113,6 @@
 				2A5369FF238552AE00C615AF /* SceneDelegate.m */,
 				2A536A01238552AE00C615AF /* ViewController.h */,
 				2A536A02238552AE00C615AF /* ViewController.m */,
-				13A08B21238626870048F959 /* Order.h */,
-				13A08B22238626870048F959 /* Order.m */,
 				13A08B24238626AE0048F959 /* Product.h */,
 				13A08B25238626AE0048F959 /* Product.m */,
 				2A536A04238552AE00C615AF /* Main.storyboard */,
@@ -278,7 +273,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				2A536A03238552AE00C615AF /* ViewController.m in Sources */,
-				13A08B23238626870048F959 /* Order.m in Sources */,
 				2A5369FD238552AE00C615AF /* AppDelegate.m in Sources */,
 				13A08B26238626AE0048F959 /* Product.m in Sources */,
 				2A536A0E238552AF00C615AF /* main.m in Sources */,

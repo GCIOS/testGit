@@ -22,13 +22,5 @@
     NSLog(@"3");
 }
 
-- (void)touchesBegan:(NSSet<UITouch *> *)touches withEvent:(UIEvent *)event
-{
-    
-}
-
-- (void)test
-{
-    
-}
+ 
 @end
