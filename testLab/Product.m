@@ -9,5 +9,8 @@
 #import "Product.h"
 
 @implementation Product
-
+- (void)log
+{
+    
+}
 @end
