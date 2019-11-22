@@ -17,10 +17,15 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view.
+    self.view.backgroundColor = [UIColor whiteColor];
     NSLog(@"1");
     NSLog(@"2");
     NSLog(@"3");
 }
 
- 
+- (void)touchesBegan:(NSSet<UITouch *> *)touches withEvent:(UIEvent *)event
+{
+    
+    NSLog(@"3");
+}
 @end
