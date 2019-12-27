@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		135F30FE23B5AC68006BF337 /* Person.m in Sources */ = {isa = PBXBuildFile; fileRef = 135F30FD23B5AC68006BF337 /* Person.m */; };
 		2A5369FD238552AE00C615AF /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 2A5369FC238552AE00C615AF /* AppDelegate.m */; };
 		2A536A00238552AE00C615AF /* SceneDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 2A5369FF238552AE00C615AF /* SceneDelegate.m */; };
 		2A536A03238552AE00C615AF /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2A536A02238552AE00C615AF /* ViewController.m */; };
@@ -36,6 +37,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		135F30FC23B5AC68006BF337 /* Person.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Person.h; sourceTree = "<group>"; };
+		135F30FD23B5AC68006BF337 /* Person.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Person.m; sourceTree = "<group>"; };
 		2A5369F8238552AE00C615AF /* testLab.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = testLab.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2A5369FB238552AE00C615AF /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		2A5369FC238552AE00C615AF /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -110,6 +113,8 @@
 				2A5369FF238552AE00C615AF /* SceneDelegate.m */,
 				2A536A01238552AE00C615AF /* ViewController.h */,
 				2A536A02238552AE00C615AF /* ViewController.m */,
+				135F30FC23B5AC68006BF337 /* Person.h */,
+				135F30FD23B5AC68006BF337 /* Person.m */,
 				2A536A04238552AE00C615AF /* Main.storyboard */,
 				2A536A07238552AF00C615AF /* Assets.xcassets */,
 				2A536A09238552AF00C615AF /* LaunchScreen.storyboard */,
@@ -269,6 +274,7 @@
 			files = (
 				2A536A03238552AE00C615AF /* ViewController.m in Sources */,
 				2A5369FD238552AE00C615AF /* AppDelegate.m in Sources */,
+				135F30FE23B5AC68006BF337 /* Person.m in Sources */,
 				2A536A0E238552AF00C615AF /* main.m in Sources */,
 				2A536A00238552AE00C615AF /* SceneDelegate.m in Sources */,
 			);
