@@ -27,6 +27,6 @@
 - (void)touchesBegan:(NSSet<UITouch *> *)touches withEvent:(UIEvent *)event
 {
     
-    NSLog(@"3");
+    NSLog(@"xiufu 4");
 }
 @end
