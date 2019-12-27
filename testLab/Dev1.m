@@ -9,5 +9,8 @@
 #import "Dev1.h"
 
 @implementation Dev1
-
+- (void)dev1
+{
+    NSLog(@"dev1");
+}
 @end
