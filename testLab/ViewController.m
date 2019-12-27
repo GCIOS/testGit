@@ -21,6 +21,7 @@
     NSLog(@"1");
     NSLog(@"2");
     NSLog(@"3");
+    NSLog(@"开发主干");
 }
 
 - (void)touchesBegan:(NSSet<UITouch *> *)touches withEvent:(UIEvent *)event
