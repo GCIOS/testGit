@@ -10,6 +10,7 @@
 		13417B4A23862A930071A1E2 /* Order.m in Sources */ = {isa = PBXBuildFile; fileRef = 13417B4923862A930071A1E2 /* Order.m */; };
 		13417B4D23862AEB0071A1E2 /* Person.m in Sources */ = {isa = PBXBuildFile; fileRef = 13417B4C23862AEB0071A1E2 /* Person.m */; };
 		13417B5023862BA40071A1E2 /* Student.m in Sources */ = {isa = PBXBuildFile; fileRef = 13417B4F23862BA40071A1E2 /* Student.m */; };
+		135F30FB23B59C83006BF337 /* Dev1.m in Sources */ = {isa = PBXBuildFile; fileRef = 135F30FA23B59C83006BF337 /* Dev1.m */; };
 		13A08B26238626AE0048F959 /* Product.m in Sources */ = {isa = PBXBuildFile; fileRef = 13A08B25238626AE0048F959 /* Product.m */; };
 		2A5369FD238552AE00C615AF /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 2A5369FC238552AE00C615AF /* AppDelegate.m */; };
 		2A536A00238552AE00C615AF /* SceneDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 2A5369FF238552AE00C615AF /* SceneDelegate.m */; };
@@ -46,6 +47,8 @@
 		13417B4C23862AEB0071A1E2 /* Person.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Person.m; sourceTree = "<group>"; };
 		13417B4E23862BA40071A1E2 /* Student.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Student.h; sourceTree = "<group>"; };
 		13417B4F23862BA40071A1E2 /* Student.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Student.m; sourceTree = "<group>"; };
+		135F30F923B59C83006BF337 /* Dev1.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Dev1.h; sourceTree = "<group>"; };
+		135F30FA23B59C83006BF337 /* Dev1.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Dev1.m; sourceTree = "<group>"; };
 		13A08B24238626AE0048F959 /* Product.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Product.h; sourceTree = "<group>"; };
 		13A08B25238626AE0048F959 /* Product.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Product.m; sourceTree = "<group>"; };
 		2A5369F8238552AE00C615AF /* testLab.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = testLab.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -130,6 +133,8 @@
 				13417B4C23862AEB0071A1E2 /* Person.m */,
 				13417B4E23862BA40071A1E2 /* Student.h */,
 				13417B4F23862BA40071A1E2 /* Student.m */,
+				135F30F923B59C83006BF337 /* Dev1.h */,
+				135F30FA23B59C83006BF337 /* Dev1.m */,
 				2A536A04238552AE00C615AF /* Main.storyboard */,
 				2A536A07238552AF00C615AF /* Assets.xcassets */,
 				2A536A09238552AF00C615AF /* LaunchScreen.storyboard */,
@@ -290,6 +295,7 @@
 				13417B4A23862A930071A1E2 /* Order.m in Sources */,
 				2A536A03238552AE00C615AF /* ViewController.m in Sources */,
 				13417B4D23862AEB0071A1E2 /* Person.m in Sources */,
+				135F30FB23B59C83006BF337 /* Dev1.m in Sources */,
 				13417B5023862BA40071A1E2 /* Student.m in Sources */,
 				2A5369FD238552AE00C615AF /* AppDelegate.m in Sources */,
 				13A08B26238626AE0048F959 /* Product.m in Sources */,
